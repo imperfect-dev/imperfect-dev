@@ -218,6 +218,54 @@ agent.run("Building tomorrow's intelligence today! 🚀")
 
 </div>
 
+
+
+
+
+
+
+
+<!-- ================= CONNECT ================= -->
+<h2 align="center">📬 Connect With Me</h2>
+
+<p align="center">
+  <i>Open to meaningful collaborations, AI-driven products, and impactful engineering work.</i>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sowmya-sutti/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://sowmyaprasad.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+
+  <a href="mailto:sowmyaprasad.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/Sowjun">
+    <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/u/sowjun/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  ⚡ <b>Actively exploring opportunities in AI Engineering, Data Systems, and Backend Development</b>  
+</p>
+
+<p align="center">
+  🚀 <i>If you're building something ambitious — let's talk.</i>
+</p>
+
 <!-- Animated footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:2d1b69,80:4c1d95,100:0d0221&height=130&section=footer&animation=fadeIn&fontColor=a78bfa&fontSize=14&text=Intelligence%20is%20not%20artificial%20—%20it%20is%20engineered.&fontAlignY=65" width="100%" alt="footer"/>
