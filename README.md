@@ -2,7 +2,7 @@
 
 <!-- Animated header banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&height=100&lines=Sowmya+Sutti;AI+%26+ML+Engineer;Agentic+AI+Builder;SIH+2025+Finalist" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Sowmya%20Sutti&fontSize=60&fontColor=ffffff&color=0:0f2027,50:203a43,100:2c5364&animation=fadeIn&fontAlignY=40" />
 </p>
 <!-- Typing SVG animation -->
 <div style="margin-top: 60px; margin-bottom: 60px">
