@@ -1,190 +1,157 @@
+<div style="font-size: medium; color: #8b5cf6" align=center>
 
-
-<!-- <p align="center"><img src="animation.gif" width="35%"></p>  -->
-
-       
-<div style=" font-size: medium; color: #447ff7" align=center>  
-
-                                 
-  ![header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
- 
-<!-- Enhanced animated header with gradient mesh background -->
-
+<!-- Animated header banner -->
 <p align="center">
-  <img src="./header.svg" alt="Custom Animated Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=Sowmya%20Sutti&fontSize=72&fontColor=ffffff&color=0:0d0221,30:1a0533,60:2d1b69,100:0d0221&stroke=8b5cf6&strokeWidth=2&animation=fadeIn&fontAlignY=55&desc=AI%20%26%20ML%20Engineer%20%7C%20Agentic%20AI%20Builder%20%7C%20SIH%202025%20Finalist&descSize=18&descAlignY=75&descColor=c4b5fd" width="100%" alt="Sowmya Sutti Header"/>
 </p>
 
-
-<!-- Typing SVG animation with custom name and roles -->
-<div style = "margin-top: 60px; margin-bottom: 60px"> 
+<!-- Typing SVG animation -->
+<div style="margin-top: 60px; margin-bottom: 60px">
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com/?font=Playfair+Display&weight=700&size=40&duration=4000&pause=1000&color=497CF6&center=true&vCenter=true&random=false&width=600&height=60&lines=Competitive+Programmer!;Full+Stack+Developer!;AI+Developer!" 
+    src="https://readme-typing-svg.demolab.com/?font=Cormorant+Garamond&weight=700&size=40&duration=4000&pause=1000&color=8b5cf6&center=true&vCenter=true&random=false&width=700&height=60&lines=AI+%26+ML+Engineer!;Agentic+AI+Builder!;SIH+2025+Runner-Up!;Salesforce+Agentblazer+2026!" 
     alt="Animated typing" 
-    width="600" 
+    width="700" 
     height="60" 
     style="max-width:100%;height:auto;" 
   />
 </p>
 
 </div>
-<!-- Alternative with more dynamic animation -->
-<!-- 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=800&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&width=600&height=80&lines=🚀+Competitive+Programmer;💻+Full+Stack+Developer;🤖+AI+Developer;✨+Code+%7C+Create+%7C+Innovate" alt="Dynamic typing" />
-</p> -->
-
 
 <!-- Glowing divider -->
-
 <p align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- Modern glass-morphism style badges -->
-
+<!-- Role badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/💻-Competitive%20Programming-232b6b?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=232526&color=232b6b"/>
-  <img src="https://img.shields.io/badge/🌐-Full%20Stack%20Development-f76d1a?style=for-the-badge&logo=react&logoColor=white&labelColor=232526&color=f76d1a"/>
-  <img src="https://img.shields.io/badge/🤖-AI%20Development-00b894?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=232526&color=00b894"/>
+  <img src="https://img.shields.io/badge/🤖-Agentic%20AI%20Builder-2d1b69?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d0221&color=2d1b69"/>
+  <img src="https://img.shields.io/badge/🧠-Machine%20Learning-4c1d95?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d0221&color=4c1d95"/>
+  <img src="https://img.shields.io/badge/🏆-SIH%202025%20Runner--Up-6d28d9?style=for-the-badge&logo=trophy&logoColor=white&labelColor=0d0221&color=6d28d9"/>
 </p>
 
+<div style="margin-top: 80px; margin-bottom: 80px">
 
-<div style = "margin-top: 80px; margin-bottom: 80px">
-
-## Coding Profiles📈
-
-
-
+## Coding Profiles 📈
 
 <p align="center">
-  <a href="https://leetcode.com/Bot_Durgesh/">
-    <img height="220" src="https://leetcard.jacoblin.cool/Bot_Durgesh?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Durgesh Leetcode Stats"/>
+  <a href="https://leetcode.com/u/sowjun/">
+    <img height="220" src="https://leetcard.jacoblin.cool/sowjun?theme=dark&font=Ubuntu&cache=14400&ext=contest" alt="Sowmya LeetCode Stats"/>
   </a>
-  <!-- <a href="https://www.codechef.com/users/bot_durgesh">
-    <img src="./codechef.svg" alt="Durgesh CodeChef Stats" width="350" height="220" />
-  </a> -->
-  <a href="https://codeforces.com/profile/BOT_DURGESH1">
-    <img height="220" src="https://codeforces-readme-stats.vercel.app/api/card?username=BOT_DURGESH1&theme=github_dark&force_username=true&border_color=00d4aa" alt="Durgesh Codeforces Stats"/>
+  <a href="https://github.com/Sowjun">
+    <img height="220" src="https://github-readme-stats.vercel.app/api?username=Sowjun&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d0221" alt="Sowmya GitHub Stats"/>
   </a>
 </p>
 
 </div>
 
+<div style="margin-top: 80px; margin-bottom: 80px">
+<img align="right" alt="AI GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" height="300" />
 
+- 🙌 Github **[Sowjun](https://github.com/Sowjun)**
 
-<div style = "margin-top: 80px; margin-bottom: 80px">
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+- 🏆 **Salesforce Agentblazer Champion 2026** — building scalable agent AI
 
+- 🥈 **SIH 2025 Grand Finals Runner-Up** — Team CODE AETHER
 
-- 🙌 Github **bot-durgesh**
+- 👑 **General President & IT Director** @ ETC Club MVGR (300+ students)
 
-- 🤝 I'm looking for help with **collaborate on Projects.**
+- 🎯 Organized a **26-hour hackathon** with 370+ participants × HackerRank
 
-- 📫 How to reach me **durgesh1812b@gmail.com**
+- 📫 How to reach me: **[sowmyaprasad.dev@gmail.com](mailto:sowmyaprasad.dev@gmail.com)**
 
-- ⚡ Fun fact 🙌 **Those who cannot remember the past are condemned to repeat it.**
+- 🌐 Portfolio: **[sowmyaprasad.vercel.app](https://sowmyaprasad.vercel.app/)**
 
-```javascript
-// My coding philosophy
-ios_base::sync_with_stdio(false);  
-cin.tie(NULL);
-console.log("Building tomorrow's solutions today! 🚀");
+- ⚡ Mantra: **"Intelligence is not artificial — it is engineered."**
+
+```python
+# My engineering philosophy
+import agentic_ai as agent
+
+agent.configure(
+    mission   = "Solve real-world problems with AI",
+    approach  = "Build systems that think, not just compute",
+    mode      = "Impact > Complexity",
+)
+agent.run("Building tomorrow's intelligence today! 🚀")
 ```
+
 </div>
 
- 
-<div style = "margin-top: 80px; margin-bottom: 80px">
+<div style="margin-top: 80px; margin-bottom: 80px">
 
-## 👩‍💻 IDE 
+## 👩‍💻 IDE
 
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Sublime](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
+## LANGUAGES & STACK
 
-## LANGUAGES
-
- 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## SOCIAL
 
-
-<a href="https://github.com/bot-durgesh" target="_blank">
+<a href="https://github.com/Sowjun" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://leetcode.com/Bot_Durgesh/" target="_blank">
+<a href="https://leetcode.com/u/sowjun/" target="_blank">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
 </a>
-<a href="https://www.linkedin.com/in/ankoji-durgesh" target="_blank">
+<a href="https://www.linkedin.com/in/sowmya-sutti/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://x.com/bot_durgesh" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+<a href="https://sowmyaprasad.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="https://www.codechef.com/users/bot_durgesh" target="_blank">
-  <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="CodeChef"/>
-</a>
-<a href="https://codeforces.com/profile/BOT_DURGESH1" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces"/>
+<a href="mailto:sowmyaprasad.dev@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
 
+<div style="margin-top: 80px; margin-bottom: 80px">
 
-
-
-
-<!-- <div style = "margin-top: 80px; margin-bottom: 80px"></div> -->
-
-
-<div style = "margin-top: 80px; margin-bottom: 80px">
 <p align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bot-durgesh&theme=github_dark&hide_border=true&title_color=497CF6&text_color=497CF6&icon_color=497CF6&bg_color=0d1117&border_color=30363d" width="100%" alt="@Durgesh's profile-details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sowjun&theme=github_dark&hide_border=true&title_color=8b5cf6&text_color=a78bfa&icon_color=a78bfa&bg_color=0d0221&border_color=2d1b69" width="100%" alt="Sowmya's profile-details"/>
 </p>
 
-
 <p align="center">
-
-  <a href="https://github.com/bot-durgesh?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=bot-durgesh&theme=gotham&show_icons=true&count_private=true&hide_border=true&title_color=497CF6&icon_color=497CF6&text_color=497CF6" width="48%" alt="@Durgesh's github-readme-stats"/>
+  <a href="https://github.com/Sowjun?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sowjun&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d0221" width="48%" alt="Sowmya's github-readme-stats"/>
   </a>
-  <a href="https://github.com/bot-durgesh?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=bot-durgesh&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=497CF6&fire=497CF6&currStreakLabel=497CF6&sideNums=497CF6&sideLabels=497CF6&dates=497CF6&stroke=497CF6" width="48%" height="54%" alt="@Durgesh's github-readme-streak-stats"/>
+  <a href="https://github.com/Sowjun?tab=stars">
+    <img src="https://streak-stats.demolab.com?user=Sowjun&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideNums=a78bfa&sideLabels=c4b5fd&dates=c4b5fd&stroke=8b5cf6&background=0d0221" width="48%" alt="Sowmya's streak-stats"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bot-durgesh&theme=gotham&layout=compact&langs_count=8&hide_border=true&title_color=497CF6&text_color=497CF6"  alt="Durgesh's Language stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowjun&theme=midnight-purple&layout=compact&langs_count=8&hide_border=true&title_color=a78bfa&text_color=c4b5fd&bg_color=0d0221" alt="Sowmya's Language stats"/>
 </p>
 
 </div>
 
-
-<!-- Simple footer -->
-<!-- Custom colorful animated SVG footer -->
+<!-- Animated footer -->
 <p align="center">
-  <img src="./footer.svg" alt="Custom Animated Footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:2d1b69,80:4c1d95,100:0d0221&height=130&section=footer&animation=fadeIn&fontColor=a78bfa&fontSize=14&text=Intelligence%20is%20not%20artificial%20—%20it%20is%20engineered.&fontAlignY=65" width="100%" alt="footer"/>
 </p>
+
 </div>
