@@ -68,16 +68,18 @@ I am actively seeking **AI Data Engineer / Data Engineer / SDE Internship Opport
 
 # 🧠 Competitive Programming
 
+<h2 align="center">💻 Coding Profiles</h2>
+
 <p align="center">
+  <a href="https://leetcode.com/u/sowjun/">
+    <img height="220" src="https://leetcard.jacoblin.cool/sowjun?theme=dark&font=Ubuntu"/>
+  </a>
+</p>
 
-<a href="https://leetcode.com/u/Imperfect_09/">
-<img height="220" src="https://leetcard.jacoblin.cool/Imperfect_09?theme=dark&font=Ubuntu"/>
-</a>
-
-<a href="https://codeforces.com/profile/DharshanSondi">
-<img height="220" src="https://codeforces-readme-stats.vercel.app/api/card?username=DharshanSondi&theme=github_dark"/>
-</a>
-
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/sowmyaprte7r/?tab=overview">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  </a>
 </p>
 
 
