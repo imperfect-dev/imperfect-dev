@@ -34,35 +34,59 @@
 <div style="margin-top: 80px; margin-bottom: 80px">
 
 
-# 👨‍💻 About Me
+<!-- ================= ABOUT ME ================= -->
+<h2 align="center">👨‍💻 About Me</h2>
 
-🎓 **B.Tech Computer Science (Data Science)**  
-📍 Vignan's Institute of Information Technology, India  
+<table align="center">
+<tr>
+<td width="50%">
 
-I’m an **Aspiring AI Data Engineer** focused on building **scalable data infrastructure and backend systems for AI applications**.
+### 🎯 Profile
 
-I design **data pipelines, backend services, and structured data models** using:
+- 🎓 **B.Tech CSE (AI & ML)**  
+- 🏫 MVGR College of Engineering  
+- 📍 India  
 
-- Python
-- SQL
-- FastAPI
-- PostgreSQL
-
-My work focuses on transforming **raw and unstructured data into reliable, model-ready datasets** that support machine learning systems in production.
-
-Currently strengthening my skills in:
-
-- **Data Structures & Algorithms**
-- **Distributed Data Processing**
-- **ETL Pipeline Design**
-- **System Design**
-- **MLOps Fundamentals**
-
-I am actively seeking **AI Data Engineer / Data Engineer / SDE Internship Opportunities**.
-
-📫 Contact: **dharshansondi.dev@gmail.com**
+- 🚀 **AI Engineer & Data Systems Builder**
+- ⚡ Focused on **scalable AI + backend systems**
 
 ---
+
+### 🧠 What I Do
+
+- 🏗️ Build **end-to-end ML pipelines**
+- 🔗 Design **data models & ETL systems**
+- 🤖 Develop **LLM + Agentic AI applications**
+- ⚙️ Engineer **backend APIs & architectures**
+
+</td>
+
+<td width="50%">
+
+### ⚙️ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sql,js,react,nextjs,fastapi,nodejs,postgres,mongodb,docker,git,linux&theme=dark" />
+</p>
+
+---
+
+### 🏆 Highlights
+
+- 🥈 **SIH 2025 Grand Finalist**  
+- 🧠 **Agentblazer Champion 2026**  
+- 👑 **General President & IT Director**
+
+---
+
+### 📫 Connect
+
+- 📧 **sowmyaprasad.dev@gmail.com**  
+- 🔗 Portfolio • LinkedIn • GitHub  
+
+</td>
+</tr>
+</table>
 
 
 
