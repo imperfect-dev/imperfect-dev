@@ -33,6 +33,39 @@
 
 <div style="margin-top: 80px; margin-bottom: 80px">
 
+
+# 👨‍💻 About Me
+
+🎓 **B.Tech Computer Science (Data Science)**  
+📍 Vignan's Institute of Information Technology, India  
+
+I’m an **Aspiring AI Data Engineer** focused on building **scalable data infrastructure and backend systems for AI applications**.
+
+I design **data pipelines, backend services, and structured data models** using:
+
+- Python
+- SQL
+- FastAPI
+- PostgreSQL
+
+My work focuses on transforming **raw and unstructured data into reliable, model-ready datasets** that support machine learning systems in production.
+
+Currently strengthening my skills in:
+
+- **Data Structures & Algorithms**
+- **Distributed Data Processing**
+- **ETL Pipeline Design**
+- **System Design**
+- **MLOps Fundamentals**
+
+I am actively seeking **AI Data Engineer / Data Engineer / SDE Internship Opportunities**.
+
+📫 Contact: **dharshansondi.dev@gmail.com**
+
+---
+
+
+
 ## Coding Profiles 📈
 
 <p align="center">
