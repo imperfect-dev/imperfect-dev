@@ -1,4 +1,4 @@
-<div style="font-size: medium; color: #8b5cf6" align=center>
+<h1 align="center">Hi 👋 I'm Sowmya Sutti</h1>
 
 <!-- Animated header banner -->
 <p align="center">
