@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Sowmya Sutti</h1>
+
 
 <!-- Animated header banner -->
 <p align="center">
