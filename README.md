@@ -78,7 +78,7 @@ I am actively seeking **AI Data Engineer / Data Engineer / SDE Internship Opport
 
 <p align="center">
   <a href="https://www.geeksforgeeks.org/profile/sowmyaprte7r/?tab=overview">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Visit%20Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 </p>
 
