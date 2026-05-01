@@ -41,7 +41,7 @@
 
 ---
 
-I build **intelligent systems that don’t just run models — they move data, scale pipelines, and solve real problems.**
+I build **intelligent systems that don’t just run models ~ they move data, scale pipelines, and solve real problems.**
 
 My focus lies in engineering the backbone of AI:
 transforming **raw, messy data into structured, production-ready systems** that power decision-making.
@@ -59,7 +59,7 @@ transforming **raw, messy data into structured, production-ready systems** that 
 
 ### 🧠 Engineering Mindset
 
-I approach problems like a systems engineer —  
+I approach problems like a systems engineer ~  
 not just *“can this model work?”* but  
 👉 *“can this scale, sustain, and deliver in production?”*
 
@@ -70,7 +70,7 @@ That shift drives everything I build.
 ### 🏆 Notable Work
 
 - 🥈 **Smart India Hackathon 2025 Grand Finalist**  
-- 🧠 **Agentblazer Champion 2026 — Salesforce Trailhead**  
+- 🧠 **Agentblazer Champion 2026 ~ Salesforce Trailhead**  
 - 🚀 Built systems like:
   - **Credisense** → AI-driven credit risk platform  
   - **Vizag Traffic Pulse** → real-time analytics system  
@@ -93,7 +93,7 @@ Deepening expertise in:
 
 ---
 
-> *I don’t just build models — I build systems that make them usable, scalable, and real.*
+> *I don’t just build models ~ I build systems that make them usable, scalable, and real.*
 
 
 
@@ -243,12 +243,12 @@ Deepening expertise in:
 </p>
 
 <p align="center">
-  🚀 <i>If you're building something ambitious — let's talk.</i>
+  🚀 <i>If you're building something ambitious ~ let's talk.</i>
 </p>
 
 <!-- Animated footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:2d1b69,80:4c1d95,100:0d0221&height=130&section=footer&animation=fadeIn&fontColor=a78bfa&fontSize=14&text=Intelligence%20is%20not%20artificial%20—%20it%20is%20engineered.&fontAlignY=65" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:2d1b69,80:4c1d95,100:0d0221&height=130&section=footer&animation=fadeIn&fontColor=a78bfa&fontSize=14&text=Intelligence%20is%20not%20artificial%20~%20it%20is%20engineered.&fontAlignY=65" width="100%" alt="footer"/>
 </p>
 
 </div>
