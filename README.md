@@ -34,59 +34,66 @@
 <div style="margin-top: 80px; margin-bottom: 80px">
 
 
-<!-- ================= ABOUT ME ================= -->
-<h2 align="center">👨‍💻 About Me</h2>
+# 👨‍💻 About Me
 
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🎯 Profile
-
-- 🎓 **B.Tech CSE (AI & ML)**  
-- 🏫 MVGR College of Engineering  
-- 📍 India  
-
-- 🚀 **AI Engineer & Data Systems Builder**
-- ⚡ Focused on **scalable AI + backend systems**
+🎓 **B.Tech Computer Science (AI & ML)**  
+📍 MVGR College of Engineering, India  
 
 ---
 
-### 🧠 What I Do
+I build **intelligent systems that don’t just run models — they move data, scale pipelines, and solve real problems.**
 
-- 🏗️ Build **end-to-end ML pipelines**
-- 🔗 Design **data models & ETL systems**
-- 🤖 Develop **LLM + Agentic AI applications**
-- ⚙️ Engineer **backend APIs & architectures**
-
-</td>
-
-<td width="50%">
-
-### ⚙️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sql,js,react,nextjs,fastapi,nodejs,postgres,mongodb,docker,git,linux&theme=dark" />
-</p>
+My focus lies in engineering the backbone of AI:
+transforming **raw, messy data into structured, production-ready systems** that power decision-making.
 
 ---
 
-### 🏆 Highlights
+### ⚡ What Drives My Work
 
-- 🥈 **SIH 2025 Grand Finalist**  
-- 🧠 **Agentblazer Champion 2026**  
-- 👑 **General President & IT Director**
+- Designing **end-to-end pipelines** that connect data → models → applications  
+- Building **AI-powered systems** with real-world impact, not just prototypes  
+- Working at the intersection of **data engineering, backend systems, and machine learning**  
+- Creating **reliable, scalable architectures** that can handle growth  
 
 ---
 
-### 📫 Connect
+### 🧠 Engineering Mindset
 
-- 📧 **sowmyaprasad.dev@gmail.com**  
-- 🔗 Portfolio • LinkedIn • GitHub  
+I approach problems like a systems engineer —  
+not just *“can this model work?”* but  
+👉 *“can this scale, sustain, and deliver in production?”*
 
-</td>
-</tr>
-</table>
+That shift drives everything I build.
+
+---
+
+### 🏆 Notable Work
+
+- 🥈 **Smart India Hackathon 2025 Grand Finalist**  
+- 🧠 **Agentblazer Champion 2026 — Salesforce Trailhead**  
+- 🚀 Built systems like:
+  - **Credisense** → AI-driven credit risk platform  
+  - **Vizag Traffic Pulse** → real-time analytics system  
+  - **Automated Classification System** → computer vision pipeline  
+
+---
+
+### 🎯 Current Direction
+
+Deepening expertise in:
+- **System Design for AI Systems**
+- **Distributed Data Processing**
+- **MLOps & Production Pipelines**
+
+---
+
+### 📫 Reach Out
+
+📧 **sowmyaprasad.dev@gmail.com**
+
+---
+
+> *I don’t just build models — I build systems that make them usable, scalable, and real.*
 
 
 
