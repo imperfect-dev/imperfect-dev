@@ -197,24 +197,31 @@ agent.run("Building tomorrow's intelligence today! 🚀")
 
 </div>
 
-<div style="margin-top: 80px; margin-bottom: 80px">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sowjun&theme=github_dark&hide_border=true&title_color=8b5cf6&text_color=a78bfa&icon_color=a78bfa&bg_color=0d0221&border_color=2d1b69" width="100%" alt="Sowmya's profile-details"/>
-</p>
 
-<p align="center">
-  <a href="https://github.com/Sowjun?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sowjun&theme=midnight-purple&show_icons=true&count_private=true&hide_border=true&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd&bg_color=0d0221" width="48%" alt="Sowmya's github-readme-stats"/>
-  </a>
-  <a href="https://github.com/Sowjun?tab=stars">
-    <img src="https://streak-stats.demolab.com?user=Sowjun&theme=midnight-purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa&sideNums=a78bfa&sideLabels=c4b5fd&dates=c4b5fd&stroke=8b5cf6&background=0d0221" width="48%" alt="Sowmya's streak-stats"/>
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowjun&theme=midnight-purple&layout=compact&langs_count=8&hide_border=true&title_color=a78bfa&text_color=c4b5fd&bg_color=0d0221" alt="Sowmya's Language stats"/>
-</p>
+
+
+<!-- ================= GITHUB STATS ================= -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Sowjun&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&rank_icon=github" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sowjun&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+
+</div>
+
+---
+
+<h2 align="center">🔥 Contribution Activity</h2>
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=Sowjun&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sowjun&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" />
 
 </div>
 
